@@ -134,6 +134,7 @@ Access the application via localhost:5000 or the configured port.
 [2] https://pythonhosted.org/Flask-Mail/ <br><br>
 [3] https://help.pythonanywhere.com/pages/Flask/ <br><br>
 [4] https://www.youtube.com/watch?v=qGOmtF5fUOU (PythonAnyWhere MySQL Database Connection Setup) <br><br>
-[5] https://flask-sqlalchemy.palletsprojects.com/en/3.1.x/ <br><br>
-[6] https://flask-wtf.readthedocs.io/en/1.2.x/ <br><br>
-[7] https://werkzeug.palletsprojects.com/en/3.0.x/ <br>
+[5] https://www.youtube.com/watch?v=nOkpTwPvDTg&t (Sending Emails with Flask) <br><br>
+[6] https://flask-sqlalchemy.palletsprojects.com/en/3.1.x/ <br><br>
+[7] https://flask-wtf.readthedocs.io/en/1.2.x/ <br><br>
+[8] https://werkzeug.palletsprojects.com/en/3.0.x/ <br>
