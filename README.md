@@ -128,3 +128,12 @@ Access the application via localhost:5000 or the configured port.
 - <b>View Own Posts</b>: Browse the platform to read and edit only own blog posts.
 - <b>Like/Dislike</b>: Interact with posts by liking or disliking them.
 - <b>Search Posts</b>: Use the search functionality to find posts by tags.
+
+# References
+[1] https://flask.palletsprojects.com/en/3.0.x/ <br>
+[2] https://pythonhosted.org/Flask-Mail/ <br>
+[3] https://help.pythonanywhere.com/pages/Flask/ <br>
+[4] https://www.youtube.com/watch?v=qGOmtF5fUOU (PythonAnyWhere MySQL Database Connection Setup) <br>
+[5] https://flask-sqlalchemy.palletsprojects.com/en/3.1.x/ <br>
+[6] https://flask-wtf.readthedocs.io/en/1.2.x/ <br>
+[7] https://werkzeug.palletsprojects.com/en/3.0.x/ <br>
