@@ -6,6 +6,10 @@
     <img src="sample.png" >
   </a>
 </div>
+<br>
+<b>Github Link:</b> https://github.com/aaronDev28/akasa-chronicles-blog/tree/main<br><br>
+<b>Hosted Link:</b> https://jibruu.pythonanywhere.com/
+
 
 ## Introduction
 
