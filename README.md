@@ -135,6 +135,16 @@ Access the application via localhost:5000 or the configured port.
 - <b>Like/Dislike</b>: Interact with posts by liking or disliking them.
 - <b>Search Posts</b>: Use the search functionality to find posts by tags.
 
+## Future Enhancement
+If given more time to enhance Akasa Chronicles, several additional features and improvements could be considered:
+-	<b>Rich Text Editor for Posts</b>: Implementing a advanced editor (like CKEditor) would allow users to format their posts better, including options for text styling, embedding images, links, etc.
+-	<b>Comment System</b>: Introducing a comment section for each blog post for more reader engagement and interaction, allowing users to leave feedback and start discussions.
+-	<b>User Profile Customization</b>: Allowing users to customize their profile with a bio, profile picture, and other information.
+-	<b>Analytics for Authors</b>: Providing authors with analytics on their posts, such as views, likes, and comments.
+-	<b>Subscription and Notification System</b>: Implementing a subscription system where readers can subscribe to their favorite authors and get notified about new posts from only them.
+-	<b>API Development</b>: Creating an API for the platform that would allow third-party integrations and extend the functionality of the platform.
+
+
 # References
 [1] https://flask.palletsprojects.com/en/3.0.x/ <br><br>
 [2] https://pythonhosted.org/Flask-Mail/ <br><br>
