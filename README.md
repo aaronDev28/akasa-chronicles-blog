@@ -8,7 +8,7 @@
 </div>
 <br>
 <b>Github Link:</b> https://github.com/aaronDev28/akasa-chronicles-blog/tree/main<br><br>
-<b>Hosted Link:</b> https://jibruu.pythonanywhere.com/<br>
+<b>Hosted Link:</b> https://jibruu.pythonanywhere.com/<br><br>
 
 <b>NOTE</b>: Upon opening the website for the first time, it might show a 500 Internal Server Error. But this is only due to the app being inactive for a long period of time (PythonAnywhere Free Hosting Restrictions). Just refresh and the server will wake up back again.<br>
 
