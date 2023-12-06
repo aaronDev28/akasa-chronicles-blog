@@ -34,9 +34,14 @@ Akasa Chronicles is a Flask-based blogging platform designed to provide a simple
 - Like/Dislike Feature: Posts can be liked or disliked, with the count visible to all.
 - Live Updates: Users receive email notifications when new blog posts are made.
 
-<b>4. User Interface and Design</b>
+<b>4. Security and Validation</b>
+- CSRF Protection: The platform uses CSRF tokens to protect against cross-site request forgery attacks.
+- Input Form Validation: All input forms are validated to ensure the integrity and security of the data entered by users.
+
+<b>5. User Interface and Design</b>
 - Responsive Interface: The platform offers a user-friendly and responsive interface with relevant pages for different functionalities.
 - Styling with PicoCSS: The UI is styled using PicoCSS, ensuring a modern and clean aesthetic, while being responsive.
+
  
 ## Technologies Used
 
