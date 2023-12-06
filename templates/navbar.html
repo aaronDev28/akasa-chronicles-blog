@@ -33,7 +33,7 @@
     
             {% if current_user.is_authenticated %}
               <li>
-                <a href="{{ url_for('logout')}}" class="secondary">Logout</a>
+                <a href="{{ url_for('logout')}}" class="secondary">Logout ({{ current_user.username }})</a>
               </li>
               {% endif %}
     
