@@ -3,7 +3,7 @@
 <br>
 <div align="center">
   <a href="https://github.com/aaronDev28/akasa-chronicles-blog.git">
-    <img src="sample.png" >
+    <img src="static/images/mainpage.png" >
   </a>
 </div>
 <br>
@@ -20,16 +20,60 @@ Akasa Chronicles is a Flask-based blogging platform designed to provide a simple
 
 <b>1. User Registration and Authentication</b>
 
+<br>
+<div align="center">
+  <a href="https://github.com/aaronDev28/akasa-chronicles-blog.git">
+    <img src="static/images/registerpage.png" >
+  </a>
+</div>
+<br>
+<div align="center">
+  <a href="https://github.com/aaronDev28/akasa-chronicles-blog.git">
+    <img src="static/images/loginpage.png" >
+  </a>
+</div>
+<br>
+
 - User Registration: Users can register using their name, email, and password.
 - Secure Login: Only registered users can log in to the platform.
 
 <b>2. Create and Manage Blog Posts</b>
+
+<br>
+<div align="center">
+  <a href="https://github.com/aaronDev28/akasa-chronicles-blog.git">
+    <img src="static/images/addpost.png" >
+  </a>
+</div>
+<br>
+<div align="center">
+  <a href="https://github.com/aaronDev28/akasa-chronicles-blog.git">
+    <img src="static/images/editpost.png" >
+  </a>
+</div>
+<br>
+
 - Blog Post Creation: Logged-in users can create new blog posts with a title, content (max 300 words), and optional tags.
 - View and Edit Posts: Users can view and edit their own posts.
 - Delete Posts: Users have the option to delete their posts.
 - View All Posts: All users can see all posts on the platform.
 
 <b>3. Public Blog Display</b>
+
+<br>
+<div align="center">
+  <a href="https://github.com/aaronDev28/akasa-chronicles-blog.git">
+    <img src="static/images/posts.png" >
+  </a>
+</div>
+<br>
+<div align="center">
+  <a href="https://github.com/aaronDev28/akasa-chronicles-blog.git">
+    <img src="static/images/search.png" >
+  </a>
+</div>
+<br>
+
 - Viewing Posts: All published blog posts are visible to visitors, ordered by the latest posts.
 - Search Functionality: Users can search for blog posts based on tags.
 - Like/Dislike Feature: Posts can be liked or disliked, with the count visible to all.
