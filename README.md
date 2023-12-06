@@ -90,7 +90,9 @@ The exact versions of the libraries can be seen in the requirements.txt file.
 
 <b>1. Clone the Repository</b>:
 
-``` git clone https://github.com/aaronDev28/akasa-chronicles-blog.git  ```
+```
+git clone https://github.com/aaronDev28/akasa-chronicles-blog.git
+```
 
 <b>2. Set Up a Virtual Environment (Optional but recommended)</b>:
 
@@ -102,7 +104,9 @@ venv\Scripts\activate  # For Windows
 
 <b>3. Install Required Packages</b>:
 
-``` pip install -r requirements.txt ```
+```
+pip install -r requirements.txt
+```
 
 <b>4. Configure the Application</b>:
 
