@@ -37,6 +37,7 @@ Akasa Chronicles is a Flask-based blogging platform designed to provide a simple
 <b>4. Security and Validation</b>
 - CSRF Protection: The platform uses CSRF tokens to protect against cross-site request forgery attacks.
 - Input Form Validation: All input forms are validated to ensure the integrity and security of the data entered by users.
+- Password Hashing: Passwords are securely hashed, ensuring data protection.
 
 <b>5. User Interface and Design</b>
 - Responsive Interface: The platform offers a user-friendly and responsive interface with relevant pages for different functionalities.
